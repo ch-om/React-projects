@@ -1,4 +1,4 @@
-# 👨‍💻 Roel - Student Profile  
+# 👨‍💻 Role - Student Profile  
 
 Hi there! I'm **Roel**, a passionate student exploring the world of coding, software development, and AI.  
 I enjoy learning new technologies, solving problems, and building projects that challenge my skills. 🚀  
